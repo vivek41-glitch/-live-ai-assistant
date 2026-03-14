@@ -6,6 +6,8 @@ A real-time AI assistant that searches the web live and answers your questions i
 
 ## 🚀 Demo
 > Ask anything — get real-time answers with sources!
+>
+> url:https://6rzdockyzxnsctkevcaejp.streamlit.app/
 
 ---
 
